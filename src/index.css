@@ -207,6 +207,11 @@ color: #8e50ba;
   font-weight: 700;
   
 }
+img{
+  margin-left: 25%;
+  width: 8rem;
+  border-radius: 5px;
+}
 .no-account{
   font-size: 17px;
   margin-right: 5%;
