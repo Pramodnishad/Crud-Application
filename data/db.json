@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Google Pixel Slate 12.3-Inch 2 ",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71k%2BKbTBn5L._SL1500_.jpg"
+    },
+    {
+      "title": "Charger",
+      "image": "https://m.media-amazon.com/images/I/41iwTvLzWhL._SY300_SX300_.jpg",
+      "id": 2
+    },
+    {
+      "title": "Car Charger",
+      "image": "https://m.media-amazon.com/images/I/41C+hcbgc9L._SX522_.jpg",
+      "id": 3
+    }
+  ]
+}
